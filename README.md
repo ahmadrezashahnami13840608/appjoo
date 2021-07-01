@@ -23,7 +23,7 @@
         "name": "اپجو",
         "description": "عالیست",
         "download_count": "2",
-        "icon_image": "icon_372952887.png",
+        "icon_image": "http://appjoo.gigfa.com/appjoo/assets/img/apps/icons/icon_372952887.png",
         "file_address": "picino_1_1_03.apk",
         "price": "0",
         "inpay": "0",
